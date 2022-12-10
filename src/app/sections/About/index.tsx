@@ -16,7 +16,8 @@ export function AboutSection() {
       />
       <div className="flex flex-col gap-2 text-zinc-600 max-w-3xl">
         <h1 className="uppercase text-5xl font-bold mb-4 text-secondary">
-          <span className="text-primary block">Conheça a</span> Divina Terra
+          <span className="text-[rgb(193,137,66)] block">Conheça a</span> Divina
+          Terra
         </h1>
         <p>A Divina Terra é referência em alimentação saudável.</p>
         <p>
